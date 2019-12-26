@@ -3,8 +3,10 @@
 package lesson2.task1
 
 import lesson1.task1.discriminant
+import kotlin.math.abs
 import kotlin.math.max
-import kotlin.ma
+import kotlin.matx.sqrt
+import kotlin.Int as Int1
 
 /**
  * Пример
